@@ -1,10 +1,11 @@
+
 # Citrus Counter App
 
 This repository contains the complete source code for the Citrus Counter application, including frontend and backend components.
 
 ## Overview
 
-Citrus Counter is an app designed to help farmers and agricultural professionals count citrus fruits efficiently using image recognition.The app provides accurate citrus counts per tree and per acre, along with reporting and PDF export features.
+Citrus Counter is an app designed to help farmers and agricultural professionals count citrus fruits efficiently using image recognition. The app provides accurate citrus counts per tree and per acre, along with reporting and PDF export features.
 
 ## Features
 
@@ -18,10 +19,30 @@ Citrus Counter is an app designed to help farmers and agricultural professionals
 ## Technologies Used
 
 - Frontend: React Native
-- Backend:  Flask(backend API), YOLO& Faster-RCNN)*
+- Backend: Flask (backend API), YOLO & Faster-RCNN
 
 ## Installation & Setup
 
 1. Clone the repository:
+
    ```bash
-git clone https://github.com/Bisma8090/CitrusCounter_App.git
+   git clone https://github.com/Bisma8090/CitrusCounter_App.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd CitrusCounter_App
+   ```
+
+3. Install the required dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the application:
+
+   ```bash
+   npm start
+   ```
