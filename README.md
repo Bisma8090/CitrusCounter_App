@@ -24,3 +24,4 @@ Citrus Counter is an app designed to help farmers and agricultural professionals
 
 1. Clone the repository:
    ```bash
+git clone https://github.com/Bisma8090/CitrusCounter_App.git
